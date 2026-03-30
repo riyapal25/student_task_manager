@@ -98,6 +98,16 @@ You will be asked to enter:
 ### Summary (Option 7)
 Shows total tasks, done count, pending count, overdue count, and a breakdown by category and priority.
 
+### Screenshots
+
+<img width="1138" height="710" alt="Screenshot 2026-03-30 220439" src="https://github.com/user-attachments/assets/db56aabe-0881-426f-a0fb-dd2d873303a2" />
+
+<img width="1080" height="460" alt="Screenshot 2026-03-30 220542" src="https://github.com/user-attachments/assets/17b2ee2e-e231-4827-83e1-eb65b3be72f4" />
+
+<img width="1068" height="598" alt="Screenshot 2026-03-30 220629" src="https://github.com/user-attachments/assets/311ccd48-f1a7-4f83-a1e7-42488df46c27" />
+
+<img width="1085" height="445" alt="Screenshot 2026-03-30 220830" src="https://github.com/user-attachments/assets/3bfbac46-a7d2-4a2e-9a1a-f64d6e55999b" />
+
 ---
 
 ## Data Storage
